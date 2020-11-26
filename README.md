@@ -48,7 +48,7 @@ If you believe this model is flawed, please create a ticket, explain your perspe
 
 - Create a new repo.
 - Replace the content of README.md with fish-docs-README.md
-- Optional: Copy in the fish-docs logo: https://github.com/TonyGravagno/fish-docs/logo1.jpg 
+- Optional: Copy in the fish-docs logo: https://github.com/TonyGravagno/fish-docs/blob/main/logo1.jpg
 - Modify all references to FISH with details to suit the project.
 - Make sure people know about your fish docs.
 - Enjoy your fish.
