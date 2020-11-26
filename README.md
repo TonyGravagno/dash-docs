@@ -1,5 +1,5 @@
 # fish-docs
-<img align="left" src="logo1.png" />
+<img align="left" src="logo1.jpg" />
 Model for community gathering of information to improve software documentation
 
     Give a man a fish and you feed him for a day.
