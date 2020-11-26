@@ -47,8 +47,12 @@ If you believe this model is flawed, please create a ticket, explain your perspe
 # Using fish-docs
 
 - Create a new repo.
+    - Doing all of this with a repo template is being researched as time permits.
 - Replace the content of README.md with fish-docs-README.md
-- Optional: Copy in the fish-docs logo: https://github.com/TonyGravagno/fish-docs/blob/main/logo1.jpg
+- Modify your repo Issue templates:
+    - Remove the defaults
+    - Replace them with the [question and answer templates](https://github.com/TonyGravagno/rspamd-docs/tree/main/.github/ISSUE_TEMPLATE)
+- Optional: Copy in the [fish-docs logo](https://github.com/TonyGravagno/fish-docs/blob/main/logo1.jpg)
 - Modify all references to FISH with details to suit the project.
 - Make sure people know about your fish docs.
 - Enjoy your fish.
